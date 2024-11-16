@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "mag fox",
+    "price":280,
+    "image": "./img/ماگ-سرامیکی-روباه-طرح-دیزنی-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 2,
+    "name": "cat mug",
+    "price": 300,
+    "image": "./img/ماگ-سرامیکی-فانتزی-گربه-LOVELY-CAT-قاشق-طرح-دم-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 3,
+    "name": "disney mug",
+    "price": 250,
+    "image": "./img/ماگ-وارداتی-دیزنی-DAISY-DUCK-و-DONALD-DUCK-بلند-برجسته-دسته-مستطیل-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 4,
+    "name": "mag mug",
+    "price": 29,
+    "image": "./img/ماگ-سرامیکی-وارداتی-طرح-دیزنی-مدل-مایک-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 5,
+    "name": "long tail cat mug",
+    "price": 150,
+    "image": "./img/ماگ-سرامیکی-گربه-دم-دراز-قاشق-دار-درب-دار-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 6,
+    "name": "spotted dog mug",
+    "price": 129,
+    "image": "./img/ماگ-سرامیکی-سگ-خال-دار-طرح-دیزنی-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 7,
+    "name": "Tweet mug",
+    "price": 229,
+    "image": "./img/ماگ-سرامیکی-توییتی-طرح-دیزنی-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 8,
+    "name": "cactus mag",
+    "price": 292,
+    "image": "./img/ماگ-سرامیکی-فانتزی-کاکتوس-درب-استیکر-قاشق-دار-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 9,
+    "name": "donut cat mug",
+    "price": 429,
+    "image": "./img/ماگ-سرامیکی-گربه-دونات-پنجه-و-گوش-برجسته-600x800.jpg",
+    "alt": "bag product"
+  },
+  {
+    "id": 10,
+    "name": "flask",
+    "price": 329,
+    "image": "./img/مینی-فلاسک-سبز-قهوه-طرح-خرگوش-بند-سیلیکونی-320-میل-استیل-304-768x1024.jpg",
+    "alt": "bag product"
+  },  {
+    "id": 11,
+    "name": "baby flask",
+    "price": 129,
+    "image": "./img/فلاسک-قهوه-کودک-آبی-200-میل-استیل-304-768x1024.jpg",
+    "alt": "bag product"
+  },  {
+    "id": 12,
+    "name": "pyrex flask",
+    "price": 829,
+    "image": "./img/ماگ-پیرکس-versailies-بلند-درب-چوبی-دسته-قهوه-ای-768x1024.jpg",
+    "alt": "bag product"
+  }
+
+
+]
