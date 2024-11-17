@@ -1,1 +1,1 @@
-![پیش‌نمایش وبسایت](https://github.com/YourUsername/YourRepositoryName/raw/main/img/background-mug-luxury.jpg)
+![پیش‌نمایش وبسایت](img/تراول-ماگ-860-میل-THINKDIFFERENET-768x1024.jpg)
